@@ -1,0 +1,1 @@
+alert('https://127.0.0.1:5500(Hello, your device has been hacked and all your data has been taken)(تم اخذ بيانات جهازك)')
